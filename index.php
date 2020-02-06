@@ -11,6 +11,7 @@ public function yy()
 {
     return '789789'''
 }
+$t='345';
 
 1
 2
