@@ -7,7 +7,10 @@ function ii()
     oiopio
 
 }
-
+public function yy()
+{
+    return '789789'''
+}
 
 1
 2
